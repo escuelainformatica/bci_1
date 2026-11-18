@@ -4,6 +4,7 @@
 * Spring Boot 3 o superior.
 * Spring Web (Spring MVC) para exponer los controladores y sus rutas.
 * Thymeleaf 3 o superior para el diseño web.
+* Use Bootstrap 5 para el diseño y estilos del frontend.
 * Base de datos H2 para desarrollo y pruebas.
 * Consola de H2 habilitada para revisar la base de datos en desarrollo.
 * Maven como herramienta de construcción.

@@ -24,4 +24,8 @@ Necesitamos crear un sistema de bodega, donde se permita gestionar el inventario
 
 [Servicios](servicio.md)
 
+# Pruebas
+
+[Pruebas](prueba.md)
+
 
