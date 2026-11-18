@@ -11,6 +11,7 @@
 * Spring Data JPA para la gestión de la base de datos.
 * Bean Validation (Hibernate Validator) para validar los datos de entrada.
 * spring-boot-starter-test (JUnit 5 y Mockito) para pruebas unitarias y de integración.
+* Para las pruebas end-to-end use playwright 1 o superior.
 * Servidor embebido Tomcat en el puerto 8080.
 
 
